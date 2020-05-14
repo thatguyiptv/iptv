@@ -905,6 +905,552 @@ http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/7911.ts
 http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/1453.ts
 #EXTINF:-1 tvg-id="wfnfishing.us" tvg-name="US: WORLD FISHING NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/World_Fishing_Network.png" group-title="USA HD",US: WORLD FISHING NETWORK
 http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4056.ts
+#EXTINF:-1 group-title="US EXTRA", US: CBS HD
+http://dna-iptv.com:999/test666/test666/31205
+#EXTINF:-1 group-title="US EXTRA", US: CBS FHD
+http://dna-iptv.com:999/test666/test666/31115
+#EXTINF:-1 group-title="US EXTRA", US: CW HD
+http://dna-iptv.com:999/test666/test666/31230
+#EXTINF:-1 group-title="US EXTRA", US: ABC
+http://dna-iptv.com:999/test666/test666/31226
+#EXTINF:-1 group-title="US EXTRA", US: Bravo FHD
+http://dna-iptv.com:999/test666/test666/31142
+#EXTINF:-1 group-title="US EXTRA", US: GSN FHD
+http://dna-iptv.com:999/test666/test666/31132
+#EXTINF:-1 group-title="US EXTRA", US: USA Network
+http://dna-iptv.com:999/test666/test666/31176
+#EXTINF:-1 group-title="US EXTRA", US: DIY Network FHD
+http://dna-iptv.com:999/test666/test666/31139
+#EXTINF:-1 group-title="US EXTRA", US: OWN FHD- US
+http://dna-iptv.com:999/test666/test666/31158
+#EXTINF:-1 group-title="US EXTRA", US: Animal Planet HD
+http://dna-iptv.com:999/test666/test666/31227
+#EXTINF:-1 group-title="US EXTRA", US: Animal Planet FHD
+http://dna-iptv.com:999/test666/test666/31143
+#EXTINF:-1 group-title="US EXTRA", US: Discovery HD
+http://dna-iptv.com:999/test666/test666/31191
+#EXTINF:-1 group-title="US EXTRA", US: Discovery Science HD
+http://dna-iptv.com:999/test666/test666/31231
+#EXTINF:-1 group-title="US EXTRA", US: History
+http://dna-iptv.com:999/test666/test666/31183
+#EXTINF:-1 group-title="US EXTRA", US: History FHD
+http://dna-iptv.com:999/test666/test666/31126
+#EXTINF:-1 group-title="US EXTRA", US: Investigation Discovery HD
+http://dna-iptv.com:999/test666/test666/31182
+#EXTINF:-1 group-title="US EXTRA", US: Investigation Discovery FHD
+http://dna-iptv.com:999/test666/test666/31124
+#EXTINF:-1 group-title="US EXTRA", US: National Geographic
+http://dna-iptv.com:999/test666/test666/31223
+#EXTINF:-1 group-title="US EXTRA", US: Nat Geo Wild FHD
+http://dna-iptv.com:999/test666/test666/31107
+#EXTINF:-1 group-title="US EXTRA", US: Discovery Turbo HD
+http://dna-iptv.com:999/test666/test666/98065
+#EXTINF:-1 group-title="US EXTRA", US: Velocity  FHD
+http://dna-iptv.com:999/test666/test666/31122
+#EXTINF:-1 group-title="US EXTRA", US: HGTV
+http://dna-iptv.com:999/test666/test666/31242
+#EXTINF:-1 group-title="US EXTRA", US: AMC HD
+http://dna-iptv.com:999/test666/test666/31193
+#EXTINF:-1 group-title="US EXTRA", US: Reelz HD
+http://dna-iptv.com:999/test666/test666/31120
+#EXTINF:-1 group-title="US EXTRA", US: Food Network
+http://dna-iptv.com:999/test666/test666/97703
+#EXTINF:-1 group-title="US EXTRA", US: Cooking Channel HD
+http://dna-iptv.com:999/test666/test666/97704
+#EXTINF:-1 group-title="US EXTRA", US: TBS HD
+http://dna-iptv.com:999/test666/test666/31224
+#EXTINF:-1 group-title="US EXTRA", US: TNT HD
+http://dna-iptv.com:999/test666/test666/31225
+#EXTINF:-1 group-title="US EXTRA", US: Syfy HD
+http://dna-iptv.com:999/test666/test666/31234
+#EXTINF:-1 group-title="US EXTRA", US: Comedy Central
+http://dna-iptv.com:999/test666/test666/31203
+#EXTINF:-1 group-title="US EXTRA", US: TLC HD
+http://dna-iptv.com:999/test666/test666/31239
+#EXTINF:-1 group-title="US EXTRA", US: TLC FHD
+http://dna-iptv.com:999/test666/test666/31116
+#EXTINF:-1 group-title="US EXTRA", US: E!
+http://dna-iptv.com:999/test666/test666/31232
+#EXTINF:-1 group-title="US EXTRA", US: LifeTime HD
+http://dna-iptv.com:999/test666/test666/31123
+#EXTINF:-1 group-title="US EXTRA", US: VH1 HD
+http://dna-iptv.com:999/test666/test666/31159
+#EXTINF:-1 group-title="US EXTRA", US: VH1 FHD
+http://dna-iptv.com:999/test666/test666/31119
+#EXTINF:-1 group-title="US EXTRA", US: A&E
+http://dna-iptv.com:999/test666/test666/31236
+#EXTINF:-1 group-title="US EXTRA", US: A&E FHD
+http://dna-iptv.com:999/test666/test666/31110
+#EXTINF:-1 group-title="US EXTRA", US: BET HD
+http://dna-iptv.com:999/test666/test666/31164
+#EXTINF:-1 group-title="US EXTRA", US: MTV HD
+http://dna-iptv.com:999/test666/test666/31114
+#EXTINF:-1 group-title="US EXTRA", US: ABC News
+http://dna-iptv.com:999/test666/test666/31237
+#EXTINF:-1 group-title="US EXTRA", US: Bloomberg
+http://dna-iptv.com:999/test666/test666/31228
+#EXTINF:-1 group-title="US EXTRA", US: CNBC
+http://dna-iptv.com:999/test666/test666/31174
+#EXTINF:-1 group-title="US EXTRA", US: CNN HD
+http://dna-iptv.com:999/test666/test666/31204
+#EXTINF:-1 group-title="US EXTRA", US: Fox News HD
+http://dna-iptv.com:999/test666/test666/31190
+#EXTINF:-1 group-title="US EXTRA", US: NEWS 12 (BROOKLYN)
+http://dna-iptv.com:999/test666/test666/31162
+#EXTINF:-1 group-title="US EXTRA", US: MSNBC FHD
+http://dna-iptv.com:999/test666/test666/31111
+#EXTINF:-1 group-title="US EXTRA", US: NBC
+http://dna-iptv.com:999/test666/test666/31201
+#EXTINF:-1 group-title="US EXTRA", US: CP24 -CA
+http://dna-iptv.com:999/test666/test666/31165
+#EXTINF:-1 group-title="US EXTRA", US: WEATHER CHANNEL
+http://dna-iptv.com:999/test666/test666/31163
+#EXTINF:-1 group-title="US EXTRA", US: Action Max HD
+http://dna-iptv.com:999/test666/test666/31194
+#EXTINF:-1 group-title="US EXTRA", US: Action Max FHD
+http://dna-iptv.com:999/test666/test666/31112
+#EXTINF:-1 group-title="US EXTRA", US: Cinemax HD
+http://dna-iptv.com:999/test666/test666/31192
+#EXTINF:-1 group-title="US EXTRA", US: Cinemax FHD
+http://dna-iptv.com:999/test666/test666/31108
+#EXTINF:-1 group-title="US EXTRA", US: 5 Star Max
+http://dna-iptv.com:999/test666/test666/31172
+#EXTINF:-1 group-title="US EXTRA", US: HBO
+http://dna-iptv.com:999/test666/test666/31184
+#EXTINF:-1 group-title="US EXTRA", US: HBO Comedy
+http://dna-iptv.com:999/test666/test666/31187
+#EXTINF:-1 group-title="US EXTRA", US: HBO Family FHD
+http://dna-iptv.com:999/test666/test666/31129
+#EXTINF:-1 group-title="US EXTRA", US: HBO FHD
+http://dna-iptv.com:999/test666/test666/31130
+#EXTINF:-1 group-title="US EXTRA", US: HBO Signature
+http://dna-iptv.com:999/test666/test666/31186
+#EXTINF:-1 group-title="US EXTRA", US: HBO Signature FHD
+http://dna-iptv.com:999/test666/test666/31128
+#EXTINF:-1 group-title="US EXTRA", US: HBO Zone
+http://dna-iptv.com:999/test666/test666/31185
+#EXTINF:-1 group-title="US EXTRA", US: HBO Zone FHD
+http://dna-iptv.com:999/test666/test666/31127
+#EXTINF:-1 group-title="US EXTRA", US: American Hero Channel HD
+http://dna-iptv.com:999/test666/test666/31144
+#EXTINF:-1 group-title="US EXTRA", US: IFC HD
+http://dna-iptv.com:999/test666/test666/31125
+#EXTINF:-1 group-title="US EXTRA", US: Paramount Network HD
+http://dna-iptv.com:999/test666/test666/31180
+#EXTINF:-1 group-title="US EXTRA", US: FX
+http://dna-iptv.com:999/test666/test666/31189
+#EXTINF:-1 group-title="US EXTRA", US: FX FHD
+http://dna-iptv.com:999/test666/test666/31134
+#EXTINF:-1 group-title="US EXTRA", US: FXX
+http://dna-iptv.com:999/test666/test666/31188
+#EXTINF:-1 group-title="US EXTRA", US: Fox HD
+http://dna-iptv.com:999/test666/test666/31202
+#EXTINF:-1 group-title="US EXTRA", US: MoreMax HD
+http://dna-iptv.com:999/test666/test666/31181
+#EXTINF:-1 group-title="US EXTRA", US: Hallmark Channel FHD
+http://dna-iptv.com:999/test666/test666/31131
+#EXTINF:-1 group-title="US EXTRA", US: Showtime FHD
+http://dna-iptv.com:999/test666/test666/31118
+#EXTINF:-1 group-title="US EXTRA", US: Starz Cinema HD
+http://dna-iptv.com:999/test666/test666/31178
+#EXTINF:-1 group-title="US EXTRA", US: Starz HD
+http://dna-iptv.com:999/test666/test666/31177
+#EXTINF:-1 group-title="US EXTRA", US: EL Rey Network FHD
+http://dna-iptv.com:999/test666/test666/31138
+#EXTINF:-1 group-title="US EXTRA", US: Viceland
+http://dna-iptv.com:999/test666/test666/31241
+#EXTINF:-1 group-title="US EXTRA", US: Viceland FHD
+http://dna-iptv.com:999/test666/test666/31113
+#EXTINF:-1 group-title="US EXTRA", US: Nick Jr
+http://dna-iptv.com:999/test666/test666/97697
+#EXTINF:-1 group-title="US EXTRA", US: NickToons
+http://dna-iptv.com:999/test666/test666/97698
+#EXTINF:-1 group-title="US EXTRA", US: Nick HD
+http://dna-iptv.com:999/test666/test666/97699
+#EXTINF:-1 group-title="US EXTRA", US: Teen Nick
+http://dna-iptv.com:999/test666/test666/97700
+#EXTINF:-1 group-title="US EXTRA", US: Disney Jr
+http://dna-iptv.com:999/test666/test666/97701
+#EXTINF:-1 group-title="US EXTRA", US: Disney XD
+http://dna-iptv.com:999/test666/test666/97702
+#EXTINF:-1 group-title="US EXTRA", US: Disney Channel HD
+http://dna-iptv.com:999/test666/test666/31140
+#EXTINF:-1 group-title="US EXTRA", US: Bein Sports HD
+http://dna-iptv.com:999/test666/test666/31160
+#EXTINF:-1 group-title="US EXTRA", US: Bein Sports  FHD
+http://dna-iptv.com:999/test666/test666/31141
+#EXTINF:-1 group-title="US EXTRA", US: CBS Sports Network HD
+http://dna-iptv.com:999/test666/test666/31214
+#EXTINF:-1 group-title="US EXTRA", US: ESPN News HD
+http://dna-iptv.com:999/test666/test666/31222
+#EXTINF:-1 group-title="US EXTRA", US: ESPN U HD
+http://dna-iptv.com:999/test666/test666/31219
+#EXTINF:-1 group-title="US EXTRA", US: ESPN USA HD
+http://dna-iptv.com:999/test666/test666/31221
+#EXTINF:-1 group-title="US EXTRA", US: ESPN USA FHD
+http://dna-iptv.com:999/test666/test666/31136
+#EXTINF:-1 group-title="US EXTRA", US: ESPN 2 HD
+http://dna-iptv.com:999/test666/test666/31220
+#EXTINF:-1 group-title="US EXTRA", US: ESPN 2 FHD
+http://dna-iptv.com:999/test666/test666/31137
+#EXTINF:-1 group-title="US EXTRA", US: ESPN Deportes
+http://dna-iptv.com:999/test666/test666/31238
+#EXTINF:-1 group-title="US EXTRA", US: Fox Sports 1 HD
+http://dna-iptv.com:999/test666/test666/31218
+#EXTINF:-1 group-title="US EXTRA", US: Fox Sports 1 FHD
+http://dna-iptv.com:999/test666/test666/31135
+#EXTINF:-1 group-title="US EXTRA", US: Fox Sports 2 HD
+http://dna-iptv.com:999/test666/test666/31217
+#EXTINF:-1 group-title="US EXTRA", US: Fox Sports Wisconsin
+http://dna-iptv.com:999/test666/test666/57940
+#EXTINF:-1 group-title="US EXTRA", US: Golf HD
+http://dna-iptv.com:999/test666/test666/31213
+#EXTINF:-1 group-title="US EXTRA", US: Golf FHD
+http://dna-iptv.com:999/test666/test666/31133
+#EXTINF:-1 group-title="US EXTRA", US: MLB Network HD
+http://dna-iptv.com:999/test666/test666/31175
+#EXTINF:-1 group-title="US EXTRA", US: NBA HD
+http://dna-iptv.com:999/test666/test666/31216
+#EXTINF:-1 group-title="US EXTRA", US: NBA HD (B)
+http://dna-iptv.com:999/test666/test666/58062
+#EXTINF:-1 group-title="US EXTRA", US: NBC Sports Network HD
+http://dna-iptv.com:999/test666/test666/31212
+#EXTINF:-1 group-title="US EXTRA", US: NBC Sports Network FHD
+http://dna-iptv.com:999/test666/test666/31121
+#EXTINF:-1 group-title="US EXTRA", US: NFL Network HD
+http://dna-iptv.com:999/test666/test666/31109
+#EXTINF:-1 group-title="US EXTRA", US: NFL Channel HD
+http://dna-iptv.com:999/test666/test666/31215
+#EXTINF:-1 group-title="US EXTRA", US: NHL Network HD
+http://dna-iptv.com:999/test666/test666/31211
+#EXTINF:-1 group-title="US EXTRA", US: Sports Net One HD
+http://dna-iptv.com:999/test666/test666/31200
+#EXTINF:-1 group-title="US EXTRA", US: Sports Net 360 HD
+http://dna-iptv.com:999/test666/test666/31208
+#EXTINF:-1 group-title="US EXTRA", US: Sports Net Ontario HD
+http://dna-iptv.com:999/test666/test666/31207
+#EXTINF:-1 group-title="US EXTRA", US: Sports Net World HD
+http://dna-iptv.com:999/test666/test666/31206
+#EXTINF:-1 group-title="US EXTRA", US: Tennis Channel FHD
+http://dna-iptv.com:999/test666/test666/31117
+#EXTINF:-1 group-title="US EXTRA", US: Tennis Channel HD
+http://dna-iptv.com:999/test666/test666/31210
+#EXTINF:-1 group-title="US EXTRA", US: Univision Deportes
+http://dna-iptv.com:999/test666/test666/31240
+#EXTINF:-1 group-title="US EXTRA", US: BT Sports 1 HD-GB
+http://dna-iptv.com:999/test666/test666/31157
+#EXTINF:-1 group-title="US EXTRA", US: BT Sports 2 HD-GB
+http://dna-iptv.com:999/test666/test666/31156
+#EXTINF:-1 group-title="US EXTRA", US: BT Sports 3 HD-GB
+http://dna-iptv.com:999/test666/test666/31155
+#EXTINF:-1 group-title="US EXTRA", US: BT Sports ESPN HD-GB
+http://dna-iptv.com:999/test666/test666/31147
+#EXTINF:-1 group-title="US EXTRA", US: Sky Sports Action HD-GB
+http://dna-iptv.com:999/test666/test666/31152
+#EXTINF:-1 group-title="US EXTRA", US: Sky Sports Arena HD-GB
+http://dna-iptv.com:999/test666/test666/31148
+#EXTINF:-1 group-title="US EXTRA", US: Sky Sports F1 HD-GB
+http://dna-iptv.com:999/test666/test666/31149
+#EXTINF:-1 group-title="US EXTRA", US: Sky Sports Football HD-GB
+http://dna-iptv.com:999/test666/test666/31145
+#EXTINF:-1 group-title="US EXTRA", US: Sky Sports Golf HD-GB
+http://dna-iptv.com:999/test666/test666/31151
+#EXTINF:-1 group-title="US EXTRA", US: Sky Sports Main Events HD-GB
+http://dna-iptv.com:999/test666/test666/31146
+#EXTINF:-1 group-title="US EXTRA", US: Sky Sports News HD-GB
+http://dna-iptv.com:999/test666/test666/31154
+#EXTINF:-1 group-title="US EXTRA", US: Sky Sports Premier League HD-GB
+http://dna-iptv.com:999/test666/test666/31150
+#EXTINF:-1 group-title="US EXTRA", US: TSN 1 HD-CA
+http://dna-iptv.com:999/test666/test666/31199
+#EXTINF:-1 group-title="US EXTRA", US: TSN 2 HD-CA
+http://dna-iptv.com:999/test666/test666/31198
+#EXTINF:-1 group-title="US EXTRA", US: TSN 3 HD-CA
+http://dna-iptv.com:999/test666/test666/31197
+#EXTINF:-1 group-title="US EXTRA", US: TSN 4 HD-CA
+http://dna-iptv.com:999/test666/test666/31196
+#EXTINF:-1 group-title="US EXTRA", US: TSN 5 HD-CA
+http://dna-iptv.com:999/test666/test666/31195
+#EXTINF:-1 group-title="US EXTRA", US: UFC TV
+http://dna-iptv.com:999/test666/test666/31161
+#EXTINF:-1 group-title="US EXTRA", US: UFC Fight Pass
+http://dna-iptv.com:999/test666/test666/57941
+#EXTINF:-1 group-title="US EXTRA", US: Fight Network
+http://dna-iptv.com:999/test666/test666/31173
+#EXTINF:-1 group-title="US EXTRA", US: WWE Network HD
+http://dna-iptv.com:999/test666/test666/31209
+#EXTINF:-1 group-title="US EXTRA", US: HBO HD
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58589
+#EXTINF:-1 group-title="US EXTRA", US: HBO 2 HD
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58590
+#EXTINF:-1 group-title="US EXTRA", US: HBO ZONE HD
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58591
+#EXTINF:-1 group-title="US EXTRA", US: HBO SIGNATURE
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58592
+#EXTINF:-1 group-title="US EXTRA", US: HBO FAMILY HD
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58593
+#EXTINF:-1 group-title="US EXTRA", US: HBO COMEDY HD
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58594
+#EXTINF:-1 group-title="US EXTRA", US: HALLMARK MOVIES & MYSTERIES HD
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58595
+#EXTINF:-1 group-title="US EXTRA", US: HALLMARK HD
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58596
+#EXTINF:-1 group-title="US EXTRA", US: HALLMARK DRAMA
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58597
+#EXTINF:-1 group-title="US EXTRA", US: EPIX HITS
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58604
+#EXTINF:-1 group-title="US EXTRA", US: EPIX HD
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58605
+#EXTINF:-1 group-title="US EXTRA", US: EPIX 2
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58606
+#EXTINF:-1 group-title="US EXTRA", US: CINEMAXX MORE MAXX
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58607
+#EXTINF:-1 group-title="US EXTRA", US: CINEMAX THRILLERMAX HD
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58608
+#EXTINF:-1 group-title="US EXTRA", US: CINEMAX OUTER MAX
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58609
+#EXTINF:-1 group-title="US EXTRA", US: CINEMAX EAST
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58611
+#EXTINF:-1 group-title="US EXTRA", US: CINEMAX ACTION MAX EAST
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58612
+#EXTINF:-1 group-title="US EXTRA", US: WGN AMERICA
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58613
+#EXTINF:-1 group-title="US EXTRA", US: WE TV
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58614
+#EXTINF:-1 group-title="US EXTRA", US: VICELAND
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58615
+#EXTINF:-1 group-title="US EXTRA", US: USA NETWORK
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58616
+#EXTINF:-1 group-title="US EXTRA", US: UNIVERSAL HD
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58619
+#EXTINF:-1 group-title="US EXTRA", US: UNIMAS
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58620
+#EXTINF:-1 group-title="US EXTRA", US: TVONE
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58621
+#EXTINF:-1 group-title="US EXTRA", US: TV LAND HD
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58622
+#EXTINF:-1 group-title="US EXTRA", US: TRU TV
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58623
+#EXTINF:-1 group-title="US EXTRA", US: TNT
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58624
+#EXTINF:-1 group-title="US EXTRA", US: TLC CHANNEL
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58625
+#EXTINF:-1 group-title="US EXTRA", US: THE CW HD CHICAGO
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58626
+#EXTINF:-1 group-title="US EXTRA", US: THE CW PIX 11
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58627
+#EXTINF:-1 group-title="US EXTRA", US: TBS
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58630
+#EXTINF:-1 group-title="US EXTRA", US: SYFY
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58632
+#EXTINF:-1 group-title="US EXTRA", US: SUNDANCE
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58633
+#EXTINF:-1 group-title="US EXTRA", US: SPIKE/PARAMOUNT
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58634
+#EXTINF:-1 group-title="US EXTRA", US: SMITHSONIAN CHANNEL
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58635
+#EXTINF:-1 group-title="US EXTRA", US: SHOWTIME SHOWCASE
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58636
+#EXTINF:-1 group-title="US EXTRA", US: SHOWTIME HD
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58637
+#EXTINF:-1 group-title="US EXTRA", US: SHOWTIME EXTREME
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58638
+#EXTINF:-1 group-title="US EXTRA", US: SHOWTIME 2
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58639
+#EXTINF:-1 group-title="US EXTRA", US: REVOLT
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58640
+#EXTINF:-1 group-title="US EXTRA", US: REELZ
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58641
+#EXTINF:-1 group-title="US EXTRA", US: RED BULL TV
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58642
+#EXTINF:-1 group-title="US EXTRA", US: QVC
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58643
+#EXTINF:-1 group-title="US EXTRA", US: PURSUIT CHANNEL
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58644
+#EXTINF:-1 group-title="US EXTRA", US: POP
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58645
+#EXTINF:-1 group-title="US EXTRA", US: OXYGEN
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58646
+#EXTINF:-1 group-title="US EXTRA", US: OWN NETWORK HD
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58647
+#EXTINF:-1 group-title="US EXTRA", US: OVATION
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58648
+#EXTINF:-1 group-title="US EXTRA", US: NBC UNIVERSO
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58649
+#EXTINF:-1 group-title="US EXTRA", US: NBC 5
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58650
+#EXTINF:-1 group-title="US EXTRA", US: NBC 4 NY
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58651
+#EXTINF:-1 group-title="US EXTRA", US: MY 9
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58652
+#EXTINF:-1 group-title="US EXTRA", US: MSNBC
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58653
+#EXTINF:-1 group-title="US EXTRA", US: ME TV
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58654
+#EXTINF:-1 group-title="US EXTRA", US: MAV TV
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58655
+#EXTINF:-1 group-title="US EXTRA", US: LIFETIME MOVIES
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58656
+#EXTINF:-1 group-title="US EXTRA", US: LIFETIME
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58657
+#EXTINF:-1 group-title="US EXTRA", US: LAFF TV
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58658
+#EXTINF:-1 group-title="US EXTRA", US: ION TV
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58659
+#EXTINF:-1 group-title="US EXTRA", US: INFOWARS
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58660
+#EXTINF:-1 group-title="US EXTRA", US: IFC
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58661
+#EXTINF:-1 group-title="US EXTRA", US: HSN
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58662
+#EXTINF:-1 group-title="US EXTRA", US: HLN
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58663
+#EXTINF:-1 group-title="US EXTRA", US: HGTV HD
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58664
+#EXTINF:-1 group-title="US EXTRA", US: HGTV UHD
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58665
+#EXTINF:-1 group-title="US EXTRA", US: HEROS & ICONS
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58666
+#EXTINF:-1 group-title="US EXTRA", US: GRIT TV
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58667
+#EXTINF:-1 group-title="US EXTRA", US: GALAVISION
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58668
+#EXTINF:-1 group-title="US EXTRA", US: FYI NETWORK
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58669
+#EXTINF:-1 group-title="US EXTRA", US: FXX
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58670
+#EXTINF:-1 group-title="US EXTRA", US: FXM
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58671
+#EXTINF:-1 group-title="US EXTRA", US: FX HD
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58672
+#EXTINF:-1 group-title="US EXTRA", US: FUSION
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58673
+#EXTINF:-1 group-title="US EXTRA", US: FUSE
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58674
+#EXTINF:-1 group-title="US EXTRA", US: FREEFORM HD
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58675
+#EXTINF:-1 group-title="US EXTRA", US: FOOD NETWORK
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58676
+#EXTINF:-1 group-title="US EXTRA", US: EL REY NETWORK
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58677
+#EXTINF:-1 group-title="US EXTRA", US: EL REY NETWORK HD
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58678
+#EXTINF:-1 group-title="US EXTRA", US: E!
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58679
+#EXTINF:-1 group-title="US EXTRA", US: DOG TV
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58680
+#EXTINF:-1 group-title="US EXTRA", US: DIY NETWORK HD
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58681
+#EXTINF:-1 group-title="US EXTRA", US: DESTINATION AMERICA
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58682
+#EXTINF:-1 group-title="US EXTRA", US: COZI TV
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58683
+#EXTINF:-1 group-title="US EXTRA", US: COUNTRY NETWORK
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58684
+#EXTINF:-1 group-title="US EXTRA", US: COOKING CHANNEL HD
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58685
+#EXTINF:-1 group-title="US EXTRA", US: COMET TV
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58686
+#EXTINF:-1 group-title="US EXTRA", US: COMEDY CENTRAL
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58687
+#EXTINF:-1 group-title="US EXTRA", US: CMT HD
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58688
+#EXTINF:-1 group-title="US EXTRA", US: CBS NY HD
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58689
+#EXTINF:-1 group-title="US EXTRA", US: CBS EAST
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58690
+#EXTINF:-1 group-title="US EXTRA", US: BUZZER
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58691
+#EXTINF:-1 group-title="US EXTRA", US: BRAVO
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58692
+#EXTINF:-1 group-title="US EXTRA", US: BOUNCE TV
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58693
+#EXTINF:-1 group-title="US EXTRA", US: BLAZE TV
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58694
+#EXTINF:-1 group-title="US EXTRA", US: BET HER
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58695
+#EXTINF:-1 group-title="US EXTRA", US: BET HD
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58696
+#EXTINF:-1 group-title="US EXTRA", US: BBC AMERICA
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58697
+#EXTINF:-1 group-title="US EXTRA", US: AXS TV
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58698
+#EXTINF:-1 group-title="US EXTRA", US: AWE CHANNEL
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58699
+#EXTINF:-1 group-title="US EXTRA", US: ANTENNA TV
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58700
+#EXTINF:-1 group-title="US EXTRA", US: AMERICAN HEROES CHANNEL
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58701
+#EXTINF:-1 group-title="US EXTRA", US: AMC
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58702
+#EXTINF:-1 group-title="US EXTRA", US: ABC WEST
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58703
+#EXTINF:-1 group-title="US EXTRA", US: ABC NY HD
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58704
+#EXTINF:-1 group-title="US EXTRA", US: ABC EAST HD
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58705
+#EXTINF:-1 group-title="US EXTRA", US: A&E HD
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58706
+#EXTINF:-1 group-title="US EXTRA", US: BABY TV
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58708
+#EXTINF:-1 group-title="US EXTRA", US: UNIVERSAL KIDS HD
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58709
+#EXTINF:-1 group-title="US EXTRA", US: TEEN NICK
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58710
+#EXTINF:-1 group-title="US EXTRA", US: STARZ KIDS & FAMILY
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58711
+#EXTINF:-1 group-title="US EXTRA", US: NICKTOONS
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58712
+#EXTINF:-1 group-title="US EXTRA", US: NICK JR. TOO
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58713
+#EXTINF:-1 group-title="US EXTRA", US: NICK JR
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58714
+#EXTINF:-1 group-title="US EXTRA", US: NICK HD
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58715
+#EXTINF:-1 group-title="US EXTRA", US: DISNEY XD
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58716
+#EXTINF:-1 group-title="US EXTRA", US: DISNEY JR
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58717
+#EXTINF:-1 group-title="US EXTRA", US: DISNEY CHANNEL HD
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58718
+#EXTINF:-1 group-title="US EXTRA", US: PBS WLIW 21
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58719
+#EXTINF:-1 group-title="US EXTRA", US: PBS KIDS EAST
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58720
+#EXTINF:-1 group-title="US EXTRA", US: PBS
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58721
+#EXTINF:-1 group-title="US EXTRA", US: CARTOONITO ES
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58722
+#EXTINF:-1 group-title="US EXTRA", US: BOOMERANG
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58724
+#EXTINF:-1 group-title="US EXTRA", US: ANIMAL PLANET
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58726
+#EXTINF:-1 group-title="US EXTRA", US: NAT GEO WILD HD US
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58727
+#EXTINF:-1 group-title="US EXTRA", US: NAT GEO USA
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58728
+#EXTINF:-1 group-title="US EXTRA", US: INVESTIGATION DISCOVERY HD
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58729
+#EXTINF:-1 group-title="US EXTRA", US: HISTORY CHANNEL
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58730
+#EXTINF:-1 group-title="US EXTRA", US: HISTORY 2
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58731
+#EXTINF:-1 group-title="US EXTRA", US: DISCOVERY SCIENCE HD
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58732
+#EXTINF:-1 group-title="US EXTRA", US: DISCOVERY LIFE
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58733
+#EXTINF:-1 group-title="US EXTRA", US: DISCOVERY FAMILY
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58734
+#EXTINF:-1 group-title="US EXTRA", US: DISCOVERY CHANNEL HD
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58735
+#EXTINF:-1 group-title="US EXTRA", US: CRIME AND INVESTIGATION
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58736
+#EXTINF:-1 group-title="US EXTRA", US: TRAVEL CHANNEL
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58737
+#EXTINF:-1 group-title="US EXTRA", US: FOX 50
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58754
+#EXTINF:-1 group-title="US EXTRA", US: FOX 5 HD
+http://91.208.115.170:25461/MAG6655050783/Bo0Q1zFfq0/58755
 #EXTINF:-1 tvg-id="AandE.us" tvg-name="USA SD: A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/330px-A%26E_Network_logo.svg.png" group-title="USA SD",USA SD: A&E
 http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12298.ts
 #EXTINF:-1 tvg-id="AMC.us" tvg-name="USA SD: AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/AMC_logo_2019.svg/330px-AMC_logo_2019.svg.png" group-title="USA SD",USA SD: AMC
@@ -7760,140 +8306,872 @@ http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13215.ts
 #EXTINF:-1 tvg-id="Zing" tvg-name="IN: ZING" tvg-logo="https://live.staticflickr.com/65535/49567899321_a4b5871fd9_m.jpg" group-title="INDIAN (TEST)",IN: ZING
 http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13216.ts
 #EXTINF:-1 tvg-id="ZOOM" tvg-name="IN: ZOOM" tvg-logo="https://live.staticflickr.com/65535/49660338858_b2dd31515b_t.jpg" group-title="INDIAN (TEST)",IN: ZOOM
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13217.tsbeastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13149.ts
-#EXTINF:-1 tvg-id="Star Vijay HD" tvg-name="IN: STAR VIJAY" tvg-logo="https://live.staticflickr.com/65535/49660357428_1108455f7f_t.jpg" group-title="INDIAN (TEST)",IN: STAR VIJAY
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13150.ts
-#EXTINF:-1 tvg-id="starworld.in" tvg-name="IN: STAR WORLD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/1200px-STAR_World.svg_.png" group-title="INDIAN (TEST)",IN: STAR WORLD
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13151.ts
-#EXTINF:-1 tvg-id="Sun Music HD" tvg-name="IN: SUN MUSIC (TAMIL)" tvg-logo="https://live.staticflickr.com/65535/49757067677_fb77195b73_t.jpg" group-title="INDIAN (TEST)",IN: SUN MUSIC (TAMIL)
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13152.ts
-#EXTINF:-1 tvg-id="Sun Music HD" tvg-name="IN: SUN MUSIC" tvg-logo="https://live.staticflickr.com/65535/49660760661_4b590711d2_t.jpg" group-title="INDIAN (TEST)",IN: SUN MUSIC
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13153.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN: SUN SURIYA" tvg-logo="https://live.staticflickr.com/65535/49661035627_5b5d96c92b_t.jpg" group-title="INDIAN (TEST)",IN: SUN SURIYA
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13154.ts
-#EXTINF:-1 tvg-id="Sun TV" tvg-name="IN: SUN TV (TAMIL)" tvg-logo="https://live.staticflickr.com/65535/49755173482_2a5f95890b_t.jpg" group-title="INDIAN (TEST)",IN: SUN TV (TAMIL)
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13155.ts
-#EXTINF:-1 tvg-id="Sun TV" tvg-name="IN: SUN TV" tvg-logo="https://live.staticflickr.com/65535/49661041092_df9d334faf_t.jpg" group-title="INDIAN (TEST)",IN: SUN TV
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13156.ts
-#EXTINF:-1 tvg-id="Surya TV" tvg-name="IN: SURYA TV (Malayalam)" tvg-logo="https://live.staticflickr.com/65535/49757520428_9dbdc759cb_t.jpg" group-title="INDIAN (TEST)",IN: SURYA TV (Malayalam)
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13157.ts
-#EXTINF:-1 tvg-id="svbctelugu.in" tvg-name="IN: SVBC (TELUGU)" tvg-logo="https://live.staticflickr.com/65535/49755038207_16a1868734_t.jpg" group-title="INDIAN (TEST)",IN: SVBC (TELUGU)
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13158.ts
-#EXTINF:-1 tvg-id="Tarang Music" tvg-name="IN: TARANG MUSIC (ORIYA)" tvg-logo="https://live.staticflickr.com/65535/49753670421_1c090bfab7_t.jpg" group-title="INDIAN (TEST)",IN: TARANG MUSIC (ORIYA)
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13159.ts
-#EXTINF:-1 tvg-id="Tarang TV" tvg-name="IN: TARANG TV (ORIYA)" tvg-logo="https://live.staticflickr.com/65535/49750754388_8d23b42acd_t.jpg" group-title="INDIAN (TEST)",IN: TARANG TV (ORIYA)
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13160.ts
-#EXTINF:-1 tvg-id="Times NOW" tvg-name="IN: TIMES NOW (Hindi)" tvg-logo="https://live.staticflickr.com/65535/49767247158_403da4dbaf_t.jpg" group-title="INDIAN (TEST)",IN: TIMES NOW (Hindi)
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13161.ts
-#EXTINF:-1 tvg-id="Times NOW" tvg-name="IN: TIMES NOW" tvg-logo="https://live.staticflickr.com/65535/49650181998_ea9d6aa827_t.jpg" group-title="INDIAN (TEST)",IN: TIMES NOW
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13162.ts
-#EXTINF:-1 tvg-id="Times NOW" tvg-name="IN: TIMES NOW" tvg-logo="https://live.staticflickr.com/65535/49650181998_ea9d6aa827_t.jpg" group-title="INDIAN (TEST)",IN: TIMES NOW
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13163.ts
-#EXTINF:-1 tvg-id="Total TV" tvg-name="IN: TOTAL TV (Hindi)" tvg-logo="https://live.staticflickr.com/65535/49767830601_8f4a1cd9d1_t.jpg" group-title="INDIAN (TEST)",IN: TOTAL TV (Hindi)
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13164.ts
-#EXTINF:-1 tvg-id="Tunes 6" tvg-name="IN: TUNES 6 (TAMIL)" tvg-logo="https://live.staticflickr.com/65535/49757388096_06c8d16ed6_t.jpg" group-title="INDIAN (TEST)",IN: TUNES 6 (TAMIL)
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13165.ts
-#EXTINF:-1 tvg-id="Tunes 6" tvg-name="IN: TUNES 6 (TELUGU)" tvg-logo="https://live.staticflickr.com/65535/49754558591_69da6ecefe_t.jpg" group-title="INDIAN (TEST)",IN: TUNES 6 (TELUGU)
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13166.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN: TV ASIA (TELUGU)" tvg-logo="https://live.staticflickr.com/65535/49754231043_486f0247d3_t.jpg" group-title="INDIAN (TEST)",IN: TV ASIA (TELUGU)
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13167.ts
-#EXTINF:-1 tvg-id="TV1" tvg-name="IN: TV1 (TELUGU)" tvg-logo="https://live.staticflickr.com/65535/49755128557_465ff497bb_t.jpg" group-title="INDIAN (TEST)",IN: TV1 (TELUGU)
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13168.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN: TV5 NEWS (TELUGU)" tvg-logo="https://live.staticflickr.com/65535/49754054223_f18c4827e1_t.jpg" group-title="INDIAN (TEST)",IN: TV5 NEWS (TELUGU)
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13169.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN: TV84 PUNJABI" tvg-logo="https://live.staticflickr.com/65535/49661168072_78ee7b62ef_t.jpg" group-title="INDIAN (TEST)",IN: TV84 PUNJABI
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13170.ts
-#EXTINF:-1 tvg-id="Udaya TV" tvg-name="IN: UDAYA TV (Kannada)" tvg-logo="https://live.staticflickr.com/65535/49757914866_f801d0a11e_t.jpg" group-title="INDIAN (TEST)",IN: UDAYA TV (Kannada)
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13171.ts
-#EXTINF:-1 tvg-id="utvmovie.in" tvg-name="IN: UTV MOVIES" tvg-logo="https://live.staticflickr.com/65535/49661026977_2d2aefe756_t.jpg" group-title="INDIAN (TEST)",IN: UTV MOVIES
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13172.ts
-#EXTINF:-1 tvg-id="utv.in" tvg-name="IN: UTV" tvg-logo="https://live.staticflickr.com/65535/49524398177_330152f52c_t.jpg" group-title="INDIAN (TEST)",IN: UTV
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13173.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN: VAANITV (Hindi)" tvg-logo="https://live.staticflickr.com/65535/49767307578_13661b1fe9_t.jpg" group-title="INDIAN (TEST)",IN: VAANITV (Hindi)
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13174.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN: VIP PUNJBI" tvg-logo="https://live.staticflickr.com/65535/49660741101_08ec9b1bcc_t.jpg" group-title="INDIAN (TEST)",IN: VIP PUNJBI
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13175.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN: WILLOW" tvg-logo="https://live.staticflickr.com/65535/49650378793_4a1ed6b213_t.jpg" group-title="INDIAN (TEST)",IN: WILLOW
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13176.ts
-#EXTINF:-1 tvg-id="zetcbollywood.in" tvg-name="IN: Z ETC BOLLYWOOD (Hindi)" tvg-logo="https://live.staticflickr.com/65535/49758305651_f3b83caac4_t.jpg" group-title="INDIAN (TEST)",IN: Z ETC BOLLYWOOD (Hindi)
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13177.ts
-#EXTINF:-1 tvg-id="Zee Kannada" tvg-name="IN: ZEE (Kannada)" tvg-logo="https://live.staticflickr.com/65535/49757370198_aefd2f4f08_t.jpg" group-title="INDIAN (TEST)",IN: ZEE (Kannada)
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13178.ts
-#EXTINF:-1 tvg-id="Zee Marathi" tvg-name="IN: ZEE (Marathi)" tvg-logo="https://live.staticflickr.com/65535/49758462897_9aeea65c4d_t.jpg" group-title="INDIAN (TEST)",IN: ZEE (Marathi)
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13179.ts
-#EXTINF:-1 tvg-id="Zee 24 Taas" tvg-name="IN: ZEE 24 TAAS (Marathi)" tvg-logo="https://live.staticflickr.com/65535/49758146116_9e40ee02df_t.jpg" group-title="INDIAN (TEST)",IN: ZEE 24 TAAS (Marathi)
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13180.ts
-#EXTINF:-1 tvg-id="Zee Action" tvg-name="IN: ZEE ACTION" tvg-logo="https://live.staticflickr.com/65535/49660197243_33105b14dd_t.jpg" group-title="INDIAN (TEST)",IN: ZEE ACTION
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13181.ts
-#EXTINF:-1 tvg-id="Zee Anmol" tvg-name="IN: ZEE ANMOL (Hindi)" tvg-logo="https://live.staticflickr.com/65535/49758417051_0afc42a84f_t.jpg" group-title="INDIAN (TEST)",IN: ZEE ANMOL (Hindi)
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13182.ts
-#EXTINF:-1 tvg-id="Zee Anmol Cinema" tvg-name="IN: ZEE ANMOL CINEMA" tvg-logo="https://live.staticflickr.com/65535/49660195593_21dcec67b4_t.jpg" group-title="INDIAN (TEST)",IN: ZEE ANMOL CINEMA
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13183.ts
-#EXTINF:-1 tvg-id="Zee Anmol" tvg-name="IN: ZEE ANMOL" tvg-logo="https://live.staticflickr.com/65535/49650332113_155ec94fd4_t.jpg" group-title="INDIAN (TEST)",IN: ZEE ANMOL
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13184.ts
-#EXTINF:-1 tvg-id="Zee Bangla" tvg-name="IN: ZEE BANGLA" tvg-logo="https://live.staticflickr.com/65535/49660193538_d1cc708cfd_t.jpg" group-title="INDIAN (TEST)",IN: ZEE BANGLA
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13185.ts
-#EXTINF:-1 tvg-id="zeebiharjharkhand.in" tvg-name="IN: ZEE BIHAR JHARKHAND (BHOJPOURI)" tvg-logo="https://live.staticflickr.com/65535/49754853402_c964a091e0_t.jpg" group-title="INDIAN (TEST)",IN: ZEE BIHAR JHARKHAND (BHOJPOURI)
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13186.ts
-#EXTINF:-1 tvg-id="Zee Bollywood" tvg-name="IN: ZEE BOLLYWOOD" tvg-logo="https://live.staticflickr.com/65535/49651118672_019c1b6ac3_t.jpg" group-title="INDIAN (TEST)",IN: ZEE BOLLYWOOD
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13187.ts
-#EXTINF:-1 tvg-id="Zee Bollywood" tvg-name="IN: ZEE BOLLYWOOD" tvg-logo="https://live.staticflickr.com/65535/49651118672_019c1b6ac3_t.jpg" group-title="INDIAN (TEST)",IN: ZEE BOLLYWOOD
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13188.ts
-#EXTINF:-1 tvg-id="Zee Business" tvg-name="IN: ZEE BUSINESS (Hindi)" tvg-logo="https://live.staticflickr.com/65535/49650414868_7f8c04d540_t.jpg" group-title="INDIAN (TEST)",IN: ZEE BUSINESS (Hindi)
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13189.ts
-#EXTINF:-1 tvg-id="Zee Business" tvg-name="IN: ZEE BUSINESS" tvg-logo="https://live.staticflickr.com/65535/49650414868_7f8c04d540_t.jpg" group-title="INDIAN (TEST)",IN: ZEE BUSINESS
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13190.ts
-#EXTINF:-1 tvg-id="Zee Cinema HD" tvg-name="IN: ZEE CINEMA  INDIA" tvg-logo="https://live.staticflickr.com/65535/49650412758_d0c1a91167_t.jpg" group-title="INDIAN (TEST)",IN: ZEE CINEMA  INDIA
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13191.ts
-#EXTINF:-1 tvg-id="Zee Cinema HD" tvg-name="IN: ZEE CINEMA HD (Hindi)" tvg-logo="https://live.staticflickr.com/65535/49768117197_9f327da5e7_t.jpg" group-title="INDIAN (TEST)",IN: ZEE CINEMA HD (Hindi)
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13192.ts
-#EXTINF:-1 tvg-id="Zee Cinema" tvg-name="IN: ZEE CINEMA INTER" tvg-logo="https://live.staticflickr.com/65535/49661164852_9f43278d3a_t.jpg" group-title="INDIAN (TEST)",IN: ZEE CINEMA INTER
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13193.ts
-#EXTINF:-1 tvg-id="Zee Cinema HD" tvg-name="IN: ZEE CINEMA" tvg-logo="https://live.staticflickr.com/65535/49661164852_9f43278d3a_t.jpg" group-title="INDIAN (TEST)",IN: ZEE CINEMA
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13194.ts
-#EXTINF:-1 tvg-id="Zee Cinema" tvg-name="IN: ZEE CINEMA" tvg-logo="https://live.staticflickr.com/65535/49650412758_d0c1a91167_t.jpg" group-title="INDIAN (TEST)",IN: ZEE CINEMA
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13195.ts
-#EXTINF:-1 tvg-id="Zee Cinemalu" tvg-name="IN: ZEE CINEMALU (TELUGU)" tvg-logo="https://live.staticflickr.com/65535/49754098488_5ea80bd263_t.jpg" group-title="INDIAN (TEST)",IN: ZEE CINEMALU (TELUGU)
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13196.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE CLASSIC" tvg-logo="https://live.staticflickr.com/65535/49650411338_89ee3fc104_t.jpg" group-title="INDIAN (TEST)",IN: ZEE CLASSIC
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13197.ts
-#EXTINF:-1 tvg-id="Zee etc" tvg-name="IN: ZEE ETC" tvg-logo="https://live.staticflickr.com/65535/49660884961_12074e8f73_t.jpg" group-title="INDIAN (TEST)",IN: ZEE ETC
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13198.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE FOODZ" tvg-logo="https://live.staticflickr.com/65535/49650947161_4d91f091a6_t.jpg" group-title="INDIAN (TEST)",IN: ZEE FOODZ
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13199.ts
-#EXTINF:-1 tvg-id="zeempcg.in" tvg-name="IN: ZEE MP & CHHATTISGARH (Hindi)" tvg-logo="https://live.staticflickr.com/65535/49758058783_0d0b3641ee_t.jpg" group-title="INDIAN (TEST)",IN: ZEE MP & CHHATTISGARH (Hindi)
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13200.ts
-#EXTINF:-1 tvg-id="Zee News" tvg-name="IN: ZEE NEWS (Hindi)" tvg-logo="https://live.staticflickr.com/65535/49651220197_8f65d2cc93_t.jpg" group-title="INDIAN (TEST)",IN: ZEE NEWS (Hindi)
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13201.ts
-#EXTINF:-1 tvg-id="Zee News" tvg-name="IN: ZEE NEWS" tvg-logo="https://live.staticflickr.com/65535/49651220197_8f65d2cc93_t.jpg" group-title="INDIAN (TEST)",IN: ZEE NEWS
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13202.ts
-#EXTINF:-1 tvg-id="zeeodisha.in" tvg-name="IN: ZEE ODISHA (ORIYA)" tvg-logo="https://live.staticflickr.com/65535/49751328471_ac85c88d41_t.jpg" group-title="INDIAN (TEST)",IN: ZEE ODISHA (ORIYA)
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13203.ts
-#EXTINF:-1 tvg-id="zeepunjabharyanahimachalpradesh.in" tvg-name="IN: ZEE PUNJAB HARYANA" tvg-logo="https://live.staticflickr.com/65535/49650178213_bebae7b41c_t.jpg" group-title="INDIAN (TEST)",IN: ZEE PUNJAB HARYANA
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13204.ts
-#EXTINF:-1 tvg-id="Zee Punjabi HP Haryana" tvg-name="IN: ZEE PUNJABI" tvg-logo="https://live.staticflickr.com/65535/49650401643_3557ed9e6c_t.jpg" group-title="INDIAN (TEST)",IN: ZEE PUNJABI
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13205.ts
-#EXTINF:-1 tvg-id="Zee Rajasthan" tvg-name="IN: ZEE RAJASTHAN (Hindi)" tvg-logo="https://live.staticflickr.com/65535/49758630871_70433488bf_t.jpg" group-title="INDIAN (TEST)",IN: ZEE RAJASTHAN (Hindi)
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13206.ts
-#EXTINF:-1 tvg-id="Zee Salaam" tvg-name="IN: ZEE SALAAM (URDU)" tvg-logo="https://live.staticflickr.com/65535/49754290353_2570b5dbcb_t.jpg" group-title="INDIAN (TEST)",IN: ZEE SALAAM (URDU)
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13207.ts
-#EXTINF:-1 tvg-id="Zee Salaam" tvg-name="IN: ZEE SALAAM" tvg-logo="https://live.staticflickr.com/65535/49650314173_6e5b1d3bf0_t.jpg" group-title="INDIAN (TEST)",IN: ZEE SALAAM
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13208.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE SMILE" tvg-logo="https://live.staticflickr.com/65535/49650399593_75a8a90b88_t.jpg" group-title="INDIAN (TEST)",IN: ZEE SMILE
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13209.ts
-#EXTINF:-1 tvg-id="Zee Talkies" tvg-name="IN: ZEE TALKIES (Marathi)" tvg-logo="https://live.staticflickr.com/65535/49758221121_41e8157278_t.jpg" group-title="INDIAN (TEST)",IN: ZEE TALKIES (Marathi)
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13210.ts
-#EXTINF:-1 tvg-id="Zee Talkies" tvg-name="IN: ZEE TALKIES" tvg-logo="https://live.staticflickr.com/65535/49661161652_f54526672d_t.jpg" group-title="INDIAN (TEST)",IN: ZEE TALKIES
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13211.ts
-#EXTINF:-1 tvg-id="Zee Tamil" tvg-name="IN: ZEE TAMIL TV" tvg-logo="https://live.staticflickr.com/65535/49650397043_507fd75e9e_t.jpg" group-title="INDIAN (TEST)",IN: ZEE TAMIL TV
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13212.ts
-#EXTINF:-1 tvg-id="Zee TV HD" tvg-name="IN: ZEE TV UK" tvg-logo="https://live.staticflickr.com/65535/49650392358_f1c8fd1433_t.jpg" group-title="INDIAN (TEST)",IN: ZEE TV UK
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13213.ts
-#EXTINF:-1 tvg-id="Zee TV HD" tvg-name="IN: ZEE TV" tvg-logo="https://live.staticflickr.com/65535/49650392358_f1c8fd1433_t.jpg" group-title="INDIAN (TEST)",IN: ZEE TV
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13214.ts
-#EXTINF:-1 tvg-id="Zing" tvg-name="IN: ZING (Hindi)" tvg-logo="https://live.staticflickr.com/65535/49567899321_a4b5871fd9_t.jpg" group-title="INDIAN (TEST)",IN: ZING (Hindi)
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13215.ts
-#EXTINF:-1 tvg-id="Zing" tvg-name="IN: ZING" tvg-logo="https://live.staticflickr.com/65535/49567899321_a4b5871fd9_m.jpg" group-title="INDIAN (TEST)",IN: ZING
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13216.ts
-#EXTINF:-1 tvg-id="ZOOM" tvg-name="IN: ZOOM" tvg-logo="https://live.staticflickr.com/65535/49660338858_b2dd31515b_t.jpg" group-title="INDIAN (TEST)",IN: ZOOM
-http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13217.ts
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/13217.tsng" group-title="NCAA BASKETBALL",(W) NCAAB 25: TBD
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/7918.ts
+#EXTINF:-1 tvg-id="" tvg-name="(W) NCAAB 26: TBD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/200px-NCAA_logo.svg.png" group-title="NCAA BASKETBALL",(W) NCAAB 26: TBD
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/8706.ts
+#EXTINF:-1 tvg-id="" tvg-name="(W) NCAAB 27: TBD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/200px-NCAA_logo.svg.png" group-title="NCAA BASKETBALL",(W) NCAAB 27: TBD
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/8707.ts
+#EXTINF:-1 tvg-id="" tvg-name="(W) NCAAB 28: TBD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/200px-NCAA_logo.svg.png" group-title="NCAA BASKETBALL",(W) NCAAB 28: TBD
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/8708.ts
+#EXTINF:-1 tvg-id="" tvg-name="(W) NCAAB 29: TBD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/200px-NCAA_logo.svg.png" group-title="NCAA BASKETBALL",(W) NCAAB 29: TBD
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/8709.ts
+#EXTINF:-1 tvg-id="" tvg-name="(W) NCAAB 30: TBD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/200px-NCAA_logo.svg.png" group-title="NCAA BASKETBALL",(W) NCAAB 30: TBD
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/8710.ts
+#EXTINF:-1 tvg-id="" tvg-name="(W) NCAAB 31: TBD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/200px-NCAA_logo.svg.png" group-title="NCAA BASKETBALL",(W) NCAAB 31: TBD
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/8711.ts
+#EXTINF:-1 tvg-id="" tvg-name="(W) NCAAB 32: TBD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/200px-NCAA_logo.svg.png" group-title="NCAA BASKETBALL",(W) NCAAB 32: TBD
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/8712.ts
+#EXTINF:-1 tvg-id="" tvg-name="(W) NCAAB 33: TBD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/200px-NCAA_logo.svg.png" group-title="NCAA BASKETBALL",(W) NCAAB 33: TBD
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/8713.ts
+#EXTINF:-1 tvg-id="" tvg-name="(W) NCAAB 34: TBD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/200px-NCAA_logo.svg.png" group-title="NCAA BASKETBALL",(W) NCAAB 34: TBD
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/8714.ts
+#EXTINF:-1 tvg-id="" tvg-name="(W) NCAAB 35: TBD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/200px-NCAA_logo.svg.png" group-title="NCAA BASKETBALL",(W) NCAAB 35: TBD
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/8715.ts
+#EXTINF:-1 tvg-id="" tvg-name="(W) NCAAB 36: TBD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/200px-NCAA_logo.svg.png" group-title="NCAA BASKETBALL",(W) NCAAB 36: TBD
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/8716.ts
+#EXTINF:-1 tvg-id="" tvg-name="(W) NCAAB 37: TBD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/200px-NCAA_logo.svg.png" group-title="NCAA BASKETBALL",(W) NCAAB 37: TBD
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/8717.ts
+#EXTINF:-1 tvg-id="" tvg-name="(W) NCAAB 38: TBD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/200px-NCAA_logo.svg.png" group-title="NCAA BASKETBALL",(W) NCAAB 38: TBD
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/11896.ts
+#EXTINF:-1 tvg-id="" tvg-name="(W) NCAAB 39: TBD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/200px-NCAA_logo.svg.png" group-title="NCAA BASKETBALL",(W) NCAAB 39: TBD
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/11897.ts
+#EXTINF:-1 tvg-id="" tvg-name="(W) NCAAB 40: TBD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/200px-NCAA_logo.svg.png" group-title="NCAA BASKETBALL",(W) NCAAB 40: TBD
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/11898.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 00" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/ESPN-PLUS-0.jpg" group-title="ESPN CHANNELS",ESPN PLUS 00
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10311.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 01" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/ESPN-PLUS-01.jpg" group-title="ESPN CHANNELS",ESPN PLUS 01
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10312.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 02" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/ESPN-PLUS-02.jpg" group-title="ESPN CHANNELS",ESPN PLUS 02
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10313.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 03" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/ESPN-PLUS-03.jpg" group-title="ESPN CHANNELS",ESPN PLUS 03
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10314.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 04" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/ESPN-PLUS-04.jpg" group-title="ESPN CHANNELS",ESPN PLUS 04
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10315.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 05" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/ESPN-PLUS-05.jpg" group-title="ESPN CHANNELS",ESPN PLUS 05
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10316.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 06" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/ESPN-PLUS-06.jpg" group-title="ESPN CHANNELS",ESPN PLUS 06
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10317.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 07" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/ESPN-PLUS-07.jpg" group-title="ESPN CHANNELS",ESPN PLUS 07
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10318.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 08" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/ESPN-PLUS-08.jpg" group-title="ESPN CHANNELS",ESPN PLUS 08
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10319.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 09" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/ESPN-PLUS-09.jpg" group-title="ESPN CHANNELS",ESPN PLUS 09
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10320.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 10" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/ESPN-PLUS-10.jpg" group-title="ESPN CHANNELS",ESPN PLUS 10
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10321.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 11" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/ESPN-PLUS-11.jpg" group-title="ESPN CHANNELS",ESPN PLUS 11
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10322.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 12" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/ESPN-PLUS-12.jpg" group-title="ESPN CHANNELS",ESPN PLUS 12
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10323.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 13" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/ESPN-PLUS-13.jpg" group-title="ESPN CHANNELS",ESPN PLUS 13
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10324.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 14" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/ESPN-PLUS-14.jpg" group-title="ESPN CHANNELS",ESPN PLUS 14
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10325.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 15" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/ESPN-PLUS-15.jpg" group-title="ESPN CHANNELS",ESPN PLUS 15
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10326.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 16" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/ESPN-PLUS-16.jpg" group-title="ESPN CHANNELS",ESPN PLUS 16
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10327.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 17" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/ESPN-PLUS-17.jpg" group-title="ESPN CHANNELS",ESPN PLUS 17
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10328.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 18" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/ESPN-PLUS-18.jpg" group-title="ESPN CHANNELS",ESPN PLUS 18
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10329.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 19" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/ESPN-PLUS-19.jpg" group-title="ESPN CHANNELS",ESPN PLUS 19
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10330.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 20" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/ESPN-PLUS-20.jpg" group-title="ESPN CHANNELS",ESPN PLUS 20
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10331.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 21" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/ESPN-PLUS-21.jpg" group-title="ESPN CHANNELS",ESPN PLUS 21
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10332.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 22" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/ESPN-PLUS-22.jpg" group-title="ESPN CHANNELS",ESPN PLUS 22
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10333.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 23" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/ESPN-PLUS-23.jpg" group-title="ESPN CHANNELS",ESPN PLUS 23
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10334.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 24" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/ESPN-PLUS-24.jpg" group-title="ESPN CHANNELS",ESPN PLUS 24
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10335.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 25" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/ESPN-PLUS-25.jpg" group-title="ESPN CHANNELS",ESPN PLUS 25
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10336.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 26" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/ESPN-PLUS-26.jpg" group-title="ESPN CHANNELS",ESPN PLUS 26
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10337.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 27" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/ESPN-PLUS-27.jpg" group-title="ESPN CHANNELS",ESPN PLUS 27
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10338.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 28" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/ESPN-PLUS-28.jpg" group-title="ESPN CHANNELS",ESPN PLUS 28
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10339.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 29" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/ESPN-PLUS-29.jpg" group-title="ESPN CHANNELS",ESPN PLUS 29
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10340.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 30" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/ESPN-PLUS-30.jpg" group-title="ESPN CHANNELS",ESPN PLUS 30
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10341.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 31" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/ESPN-PLUS-31.jpg" group-title="ESPN CHANNELS",ESPN PLUS 31
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10342.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 32" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/ESPN-PLUS-32.jpg" group-title="ESPN CHANNELS",ESPN PLUS 32
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10343.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 33" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/ESPN-PLUS-33.jpg" group-title="ESPN CHANNELS",ESPN PLUS 33
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10344.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 34" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/espn34.jpg" group-title="ESPN CHANNELS",ESPN PLUS 34
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10345.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 35" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/espn35.jpg" group-title="ESPN CHANNELS",ESPN PLUS 35
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10346.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 36" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/espn36.jpg" group-title="ESPN CHANNELS",ESPN PLUS 36
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10347.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 37" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/espn37.jpg" group-title="ESPN CHANNELS",ESPN PLUS 37
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10348.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 38" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/espn38.jpg" group-title="ESPN CHANNELS",ESPN PLUS 38
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10349.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 39" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/espn39.jpg" group-title="ESPN CHANNELS",ESPN PLUS 39
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10350.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 40" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/espn40.jpg" group-title="ESPN CHANNELS",ESPN PLUS 40
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10351.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 41" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/espn41.jpg" group-title="ESPN CHANNELS",ESPN PLUS 41
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10352.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 42" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/espn42.jpg" group-title="ESPN CHANNELS",ESPN PLUS 42
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10353.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 43" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/espn43.jpg" group-title="ESPN CHANNELS",ESPN PLUS 43
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10354.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 44" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/espn44.jpg" group-title="ESPN CHANNELS",ESPN PLUS 44
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10355.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 45" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/espn45.jpg" group-title="ESPN CHANNELS",ESPN PLUS 45
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10356.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 46" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/espn46.jpg" group-title="ESPN CHANNELS",ESPN PLUS 46
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10357.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 47" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/espn47.jpg" group-title="ESPN CHANNELS",ESPN PLUS 47
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10358.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 48" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/espn48.jpg" group-title="ESPN CHANNELS",ESPN PLUS 48
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10359.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 49" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/espn49.jpg" group-title="ESPN CHANNELS",ESPN PLUS 49
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10360.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 50" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/espn50.jpg" group-title="ESPN CHANNELS",ESPN PLUS 50
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10361.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 51
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10362.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 52" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 52
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10363.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 53" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 53
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10364.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 54" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 54
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10365.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 55" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 55
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10366.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 56" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 56
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10367.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 57" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 57
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10368.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 58" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 58
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10369.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 59" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 59
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10370.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 60" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 60
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10371.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 61" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 61
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10372.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 62" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 62
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10373.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 63" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 63
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10374.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 64" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 64
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10375.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 65" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 65
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10376.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 66" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 66
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10377.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 67" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 67
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10378.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 68" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 68
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10379.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 69" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 69
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10380.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 70" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 70
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10381.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 71" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 71
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10382.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 72" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 72
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10383.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 73" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 73
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10384.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 74" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 74
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10385.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 75" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 75
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10386.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 76" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 76
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10387.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 78" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 78
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10388.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 79" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 79
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10389.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 80" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 80
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10390.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 81" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 81
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10391.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 82" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 82
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10392.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 83" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 83
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10393.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 84" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 84
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10394.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 85" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 85
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10395.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 86" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 86
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10396.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 87" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 87
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10397.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 88" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 88
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10398.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 89" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 89
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10399.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 90" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 90
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10400.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 91" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 91
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10401.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 92" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 92
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10402.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 93" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 93
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10403.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 94" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 94
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10404.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 95" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 95
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10405.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 96" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 96
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10406.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 97" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 97
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10407.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 98" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 98
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10408.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 99" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 99
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10409.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 100" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 100
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10410.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 101" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 101
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10411.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 102" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 102
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10412.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 103" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 103
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10413.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 104" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 104
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10414.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 105" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 105
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10415.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 106" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 106
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10416.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 107" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 107
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10417.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 108" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 108
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10418.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 109" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 109
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10419.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 110" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 110
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10420.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 111" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 111
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10421.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 112" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 112
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10422.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 113" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 113
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10423.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 114" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 114
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10424.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 115" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 115
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10425.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 116" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 116
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10426.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 117" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 117
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10427.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 118" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 118
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10428.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 119" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 119
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10429.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 120" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 120
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10430.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 121" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 121
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10431.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 122" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 122
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10432.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 123" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 123
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10433.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 124" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 124
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10434.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 125" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 125
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10435.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 126" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 126
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10436.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 127" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 127
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10437.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 128" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 128
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10438.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 129" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 129
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10439.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 130" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 130
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10440.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 131" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 131
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10441.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 132" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 132
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10442.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 133" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 133
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10443.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 134" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 134
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10444.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 135" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 135
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10445.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 136" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 136
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10446.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 137" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 137
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10447.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 138" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 138
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10448.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 139" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 139
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10449.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 140" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 140
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10450.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 141" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 141
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10451.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 142" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 142
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10452.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 143" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 143
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10453.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 144" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 144
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10454.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 145" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 145
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10455.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 146" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 146
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10456.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 147" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 147
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10457.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 148" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 148
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10458.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 149" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 149
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10459.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 150" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESPN_Events_logo.png/220px-ESPN_Events_logo.png" group-title="ESPN CHANNELS",ESPN PLUS 150
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/10460.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 00: 70s" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 00: 70s
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4672.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 01: 80s Rock" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 01: 80s Rock
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3755.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 02: 80s" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 02: 80s
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3756.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 03: 90s" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 03: 90s
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3757.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 04: Adult Alternative" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 04: Adult Alternative
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3758.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 05: All Christmas" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 05: All Christmas
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3759.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 06: Alternative Music Videos" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 06: Alternative Music Videos
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3760.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 07: Alternative R&B Music Videos" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 07: Alternative R&B Music Videos
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3761.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 08: Alternative" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 08: Alternative
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3762.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 09: Americana" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 09: Americana
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3763.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 10: Bluegrass" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 10: Bluegrass
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3764.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 11: Blues" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 11: Blues
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3765.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 12: Brazilian Pop Music Videos" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 12: Brazilian Pop Music Videos
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3766.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 13: Brits Hits Music Videos" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 13: Brits Hits Music Videos
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3767.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 14: Brits Hits Music Videos" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 14: Brits Hits Music Videos
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3768.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 15: Classic Alternative" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 15: Classic Alternative
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3769.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 16: Classic Country" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 16: Classic Country
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3770.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 17: Classic Dance" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 17: Classic Dance
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3771.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 18: Classic Metal" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 18: Classic Metal
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3772.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 19: Classic Rock" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 19: Classic Rock
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3773.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 20: Classical Masterpieces" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 20: Classical Masterpieces
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3774.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 21: Contemporary Christian" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 21: Contemporary Christian
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3775.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 22: Country Hits" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 22: Country Hits
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3776.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 23: Dance/EDM Music Videos" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 23: Dance/EDM Music Videos
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3777.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 24: Dance/EDM" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 24: Dance/EDM
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3778.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 25: Easy/Listening" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 25: Easy/Listening
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3779.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 26: EmoXScreamo" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 26: EmoXScreamo
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3780.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 27: Filipino" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 27: Filipino
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3781.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 28: Folk" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 28: Folk
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3782.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 29: Funk" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 29: Funk
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3783.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 30: Gospel" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 30: Gospel
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3784.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 31: HipHop & R&B Music Videos" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 31: HipHop & R&B Music Videos
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3785.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 32: Hip-Hop & R&B" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 32: Hip-Hop & R&B
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3786.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 33: Hip-Hop Classics" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 33: Hip-Hop Classics
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3787.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 34: Hit List" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 34: Hit List
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3788.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 35: Hit List Music Videos" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 35: Hit List Music Videos
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3789.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 36: Indie Music Videos" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 36: Indie Music Videos
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3790.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 37: Indie" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 37: Indie
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3791.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 38: Jazz" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 38: Jazz
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3792.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 39: K Pop" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 39: K Pop
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3793.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 40: Kids Movie Soundtracks" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 40: Kids Movie Soundtracks
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3794.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 41: Kidz Only Music Videos" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 41: Kidz Only Music Videos
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3795.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 42: Kidz Only" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 42: Kidz Only
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3796.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 43: Latin Jazz" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 43: Latin Jazz
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3797.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 44: Light Classical" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 44: Light Classical
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3798.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 45: Lounge" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 45: Lounge
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3799.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 46: Love Songs" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 46: Love Songs
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3800.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 47: Metal Music Videos" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 47: Metal Music Videos
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3801.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 48: Metal" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 48: Metal
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3802.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 49: Mexicana Music Videos" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 49: Mexicana Music Videos
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3803.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 50: Mexicana" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 50: Mexicana
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3804.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 51: Music Choice Max" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 51: Music Choice Max
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3805.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 52: Musica Urbana Music Videos" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 52: Musica Urbana Music Videos
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3806.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 53: Musica Urbana" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 53: Musica Urbana
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3807.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 54: New Wave" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 54: New Wave
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3808.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 55: Opera" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 55: Opera
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3809.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 56: Party Favorites" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 56: Party Favorites
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3810.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 57: Pop & Country Music Videos" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 57: Pop & Country Music Videos
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3811.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 58: Pop Hits Music Videos" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 58: Pop Hits Music Videos
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3812.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 59: Pop Hits" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 59: Pop Hits
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3813.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 60: Pop Latino Music Videos" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 60: Pop Latino Music Videos
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3814.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 61: Pop Latino" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 61: Pop Latino
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3815.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 62: Pop & Country" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 62: Pop & Country
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3816.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 63: Punk" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 63: Punk
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3817.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 64: R&B Soul Music Videos" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 64: R&B Soul Music Videos
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3818.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 65: R&B Soul" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 65: R&B Soul
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3819.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 66: Rap Music Videos" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 66: Rap Music Videos
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3820.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 67: Rap" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 67: Rap
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3821.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 68: Rap 2K Music Videos" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 68: Rap 2K Music Videos
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3822.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 69: Rap 2K" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 69: Rap 2K
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3823.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 70: Reggae" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 70: Reggae
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3824.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 71: R&B Classics" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 71: R&B Classics
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3825.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 72: Rock Hits" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 72: Rock Hits
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3826.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 73: Rock Latino" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 73: Rock Latino
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3827.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 74: Rock Music Videos" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 74: Rock Music Videos
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3828.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 75: Rock" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 75: Rock
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3829.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 76: Romances" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 76: Romances
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3830.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 77: Singers & Swing" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 77: Singers & Swing
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3831.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 78: Smooth Jazz" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 78: Smooth Jazz
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3832.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 79: Soft Rock" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 79: Soft Rock
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3833.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 80: Solid Gold Oldies" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 80: Solid Gold Oldies
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3834.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 81: Sounds of The Seasons" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 81: Sounds of The Seasons
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3835.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 82: Soundscapes" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 82: Soundscapes
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3836.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 83: Stage & Screen" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 83: Stage & Screen
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3837.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 84: Teen Beats Music Videos" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 84: Teen Beats Music Videos
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3838.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 85: Teen Beats" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 85: Teen Beats
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3839.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 86: Teen Ritmos" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 86: Teen Ritmos
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3840.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 87: Throwback Jamz Music Videos" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 87: Throwback Jamz Music Videos
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3841.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 88: Throwback Jamz" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 88: Throwback Jamz
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3842.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 89: TodaysCountry Music Videos" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 89: TodaysCountry Music Videos
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3843.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 90: Todays Country" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 90: Todays Country
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3844.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 91: Toddler Tunes Music Videos" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 91: Toddler Tunes Music Videos
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3845.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 92: Toddler Tunes" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 92: Toddler Tunes
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3846.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 93: Tropicales Music Videos" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 93: Tropicales Music Videos
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3847.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 94: Tropicales" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 94: Tropicales
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3848.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 95: Underground Hip-Hop" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 95: Underground Hip-Hop
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3849.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 96: Y2K Music Videos" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 96: Y2K Music Videos
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3850.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC 97: Y2K" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Music_Choice_2012.png" group-title="MUSIC",MC 97: Y2K
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/3851.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: AMATEURS" tvg-logo="" group-title="ADULT XXX",XXX SINSATIONS: AMATEURS
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12689.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: ANAL" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="ADULT XXX",XXX SINSATIONS: ANAL
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12414.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: BANGBROS 1" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="ADULT XXX",XXX SINSATIONS: BANGBROS 1
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/7834.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: BANGBROS 2" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="ADULT XXX",XXX SINSATIONS: BANGBROS 2
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/7835.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: BLACKED 1" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="ADULT XXX",XXX SINSATIONS: BLACKED 1
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/7837.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: BLACKED 2" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="ADULT XXX",XXX SINSATIONS: BLACKED 2
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/7838.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: BLUE HUSTLE" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="NO SOURCE / UNRELIABLE",XXX SINSATIONS: BLUE HUSTLE
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12415.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: BRAZZERS TV" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="NO SOURCE / UNRELIABLE",XXX SINSATIONS: BRAZZERS TV
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12416.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: CANDY" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="NO SOURCE / UNRELIABLE",XXX SINSATIONS: CANDY
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12417.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: CREAMPIE 1" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="ADULT XXX",XXX SINSATIONS: CREAMPIE 1
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/7842.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: CREAMPIE 2" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="ADULT XXX",XXX SINSATIONS: CREAMPIE 2
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/7843.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: COMPILATION" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="NO SOURCE / UNRELIABLE",XXX SINSATIONS: COMPILATION
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12418.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: DORCEL TV" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="NO SOURCE / UNRELIABLE",XXX SINSATIONS: DORCEL TV
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12419.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: DOUBLE DIP 1" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="ADULT XXX",XXX SINSATIONS: DOUBLE DIP 1
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/7844.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: DOUBLE DIP 2" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="ADULT XXX",XXX SINSATIONS: DOUBLE DIP 2
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/7845.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: EROTIC 3" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="NO SOURCE / UNRELIABLE",XXX SINSATIONS: EROTIC 3
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12420.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: EROTIC 4" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="NO SOURCE / UNRELIABLE",XXX SINSATIONS: EROTIC 4
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12421.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: EROTIC 5" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="ADULT XXX",XXX SINSATIONS: EROTIC 5
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12422.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: EROXXX TV" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="NO SOURCE / UNRELIABLE",XXX SINSATIONS: EROXXX TV
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12423.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: FAMILY STROKES" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="ADULT XXX",XXX SINSATIONS: FAMILY STROKES
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/7847.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: GIRLS GONE WILD 1" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="ADULT XXX",XXX SINSATIONS: GIRLS GONE WILD 1
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/7849.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: GIRLS GONE WILD 2" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="ADULT XXX",XXX SINSATIONS: GIRLS GONE WILD 2
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/7850.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: GLORY" tvg-logo="" group-title="ADULT XXX",XXX SINSATIONS: GLORY
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12690.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: HOTCLUB 1" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="NO SOURCE / UNRELIABLE",XXX SINSATIONS: HOTCLUB 1
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12424.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: HOTCLUB 2" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="NO SOURCE / UNRELIABLE",XXX SINSATIONS: HOTCLUB 2
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12425.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: HOTCLUB 3" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="ADULT XXX",XXX SINSATIONS: HOTCLUB 3
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12426.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: HOTCLUB 4" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="NO SOURCE / UNRELIABLE",XXX SINSATIONS: HOTCLUB 4
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12427.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: HOTCLUB 6" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="NO SOURCE / UNRELIABLE",XXX SINSATIONS: HOTCLUB 6
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12428.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: HOTCLUB 8" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="NO SOURCE / UNRELIABLE",XXX SINSATIONS: HOTCLUB 8
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12429.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: HOTCLUB 9" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="NO SOURCE / UNRELIABLE",XXX SINSATIONS: HOTCLUB 9
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12430.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: HUSTLER TV" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="NO SOURCE / UNRELIABLE",XXX SINSATIONS: HUSTLER TV
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12431.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: HUSTLER" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="NO SOURCE / UNRELIABLE",XXX SINSATIONS: HUSTLER
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12432.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: JASMIN TV" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="ADULT XXX",XXX SINSATIONS: JASMIN TV
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12433.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: LESBIAN" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="ADULT XXX",XXX SINSATIONS: LESBIAN
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12434.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: LESBIAN 2" tvg-logo="" group-title="ADULT XXX",XXX SINSATIONS: LESBIAN 2
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12691.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: LUST" tvg-logo="" group-title="ADULT XXX",XXX SINSATIONS: LUST
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12692.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: MAX XXX 1" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="ADULT XXX",XXX SINSATIONS: MAX XXX 1
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12435.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: MOFOS 1" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="ADULT XXX",XXX SINSATIONS: MOFOS 1
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/7856.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: MOFOS 1" tvg-logo="" group-title="ADULT XXX",XXX SINSATIONS: MOFOS 1
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12693.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: MOFOS 2" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="ADULT XXX",XXX SINSATIONS: MOFOS 2
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/7857.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: NETWORK 1" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="ADULT XXX",XXX SINSATIONS: NETWORK 1
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/7858.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: NETWORK 2" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="ADULT XXX",XXX SINSATIONS: NETWORK 2
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/7859.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: NETWORK 3" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="ADULT XXX",XXX SINSATIONS: NETWORK 3
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/7860.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: OH-AH" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="ADULT XXX",XXX SINSATIONS: OH-AH
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12436.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: PARODY" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="NO SOURCE / UNRELIABLE",XXX SINSATIONS: PARODY
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12440.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: PASSION XXX" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="ADULT XXX",XXX SINSATIONS: PASSION XXX
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12441.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: PENTHOUSE 1" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="ADULT XXX",XXX SINSATIONS: PENTHOUSE 1
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12442.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: PENTHOUSE 2" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="NO SOURCE / UNRELIABLE",XXX SINSATIONS: PENTHOUSE 2
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12443.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: PENTHOUSE GOLD" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="ADULT XXX",XXX SINSATIONS: PENTHOUSE GOLD
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12444.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: PINK EROTIC 4" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="NO SOURCE / UNRELIABLE",XXX SINSATIONS: PINK EROTIC 4
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12445.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: PINKO TV" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="NO SOURCE / UNRELIABLE",XXX SINSATIONS: PINKO TV
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12446.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: PLEASURE TV 2" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="NO SOURCE / UNRELIABLE",XXX SINSATIONS: PLEASURE TV 2
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12437.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: PLEASURE TV 3" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="NO SOURCE / UNRELIABLE",XXX SINSATIONS: PLEASURE TV 3
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12438.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: PLEASURE TV 4" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="NO SOURCE / UNRELIABLE",XXX SINSATIONS: PLEASURE TV 4
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12439.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: PRIVATE" tvg-logo="" group-title="ADULT XXX",XXX SINSATIONS: PRIVATE
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12694.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: PRIVATE TV" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="ADULT XXX",XXX SINSATIONS: PRIVATE TV
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12447.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: REDLIGHT" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="ADULT XXX",XXX SINSATIONS: REDLIGHT
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12448.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: SHALUN TV" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="NO SOURCE / UNRELIABLE",XXX SINSATIONS: SHALUN TV
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12449.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: TEENS" tvg-logo="" group-title="ADULT XXX",XXX SINSATIONS: TEENS
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12695.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: TENX" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="ADULT XXX",XXX SINSATIONS: TENX
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12450.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: ULTIMATE SURRENDER" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="ADULT XXX",XXX SINSATIONS: ULTIMATE SURRENDER
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/7864.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: VENUS 1" tvg-logo="" group-title="ADULT XXX",XXX SINSATIONS: VENUS 1
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12696.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: VENUS 2" tvg-logo="" group-title="ADULT XXX",XXX SINSATIONS: VENUS 2
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12697.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: VENUS 3" tvg-logo="" group-title="ADULT XXX",XXX SINSATIONS: VENUS 3
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12698.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: VINTAGE" tvg-logo="" group-title="ADULT XXX",XXX SINSATIONS: VINTAGE
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12699.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: VIVID RED" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="NO SOURCE / UNRELIABLE",XXX SINSATIONS: VIVID RED
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12451.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: XTRASMALL" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="ADULT XXX",XXX SINSATIONS: XTRASMALL
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/7865.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: XXL TV" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="NO SOURCE / UNRELIABLE",XXX SINSATIONS: XXL TV
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12452.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SINSATIONS: XYPLUS TV" tvg-logo="https://ia801906.us.archive.org/34/items/Kobraxxx2Copy/kobraxxx2%20copy.png" group-title="NO SOURCE / UNRELIABLE",XXX SINSATIONS: XYPLUS TV
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12453.ts
+#EXTINF:-1 tvg-id="aemundo.cl" tvg-name="LAT: A&E  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/220px-A%26E_Network_logo.svg.png" group-title="LATINO",LAT: A&E  HD
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4679.ts
+#EXTINF:-1 tvg-id="amc.hn" tvg-name="LAT: AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/AMC_logo_2019.svg/220px-AMC_logo_2019.svg.png" group-title="LATINO",LAT: AMC
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4680.ts
+#EXTINF:-1 tvg-id="animalplanet.co" tvg-name="LAT: ANIMAL PLANET HD (CO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="LATINO",LAT: ANIMAL PLANET HD (CO)
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4681.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT: ANTENA 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/125px-Antena_3_%282017%29.svg.png" group-title="LATINO",LAT: ANTENA 3
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4806.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT: AR: CANAL 26 (SD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Canal_26_Argentina.png" group-title="LATINO",LAT: AR: CANAL 26 (SD)
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4682.ts
+#EXTINF:-1 tvg-id="axn.cl" tvg-name="LAT: AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/250px-AXN_logo_%282015%29.svg.png" group-title="LATINO",LAT: AXN HD
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4683.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT: AZTECA 7 HD (MX)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/51/Azteca_7_2017.png" group-title="LATINO",LAT: AZTECA 7 HD (MX)
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4684.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT: AZTECA UNO" tvg-logo="https://en.wikipedia.org/wiki/File:Azteca_Uno_(2018).jpg" group-title="LATINO",LAT: AZTECA UNO
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/6434.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT: BABY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/BabyTV.png/180px-BabyTV.png" group-title="LATINO",LAT: BABY TV
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4685.ts
+#EXTINF:-1 tvg-id="boomerang.hn" tvg-name="LAT: BOOMERANG (CO) HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/175px-Boomerang_2014_logo.svg.png" group-title="LATINO",LAT: BOOMERANG (CO) HD
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4686.ts
+#EXTINF:-1 tvg-id="canal5.hn" tvg-name="LAT: CANAL 5 HD (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Logotipo-Canal-5-M%C3%A9xico.png/190px-Logotipo-Canal-5-M%C3%A9xico.png" group-title="LATINO",LAT: CANAL 5 HD (MX)
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4688.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.cl" tvg-name="LAT: CARTOON NETWORK HD (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-title="LATINO",LAT: CARTOON NETWORK HD (MX)
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4691.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT: CINE CANAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Canal%2BCin%C3%A9ma2009.svg/250px-Canal%2BCin%C3%A9ma2009.svg.png" group-title="LATINO",LAT: CINE CANAL HD
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4693.ts
+#EXTINF:-1 tvg-id="cinemax.co" tvg-name="LAT: CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/250px-Cinemax_%28Yellow%29.svg.png" group-title="LATINO",LAT: CINEMAX
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4694.ts
+#EXTINF:-1 tvg-id="cnn.co" tvg-name="LAT: CNN EN ESPANOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/200px-CNN.svg.png" group-title="LATINO",LAT: CNN EN ESPANOL
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4695.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT: COCINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/CanalSur1.svg/90px-CanalSur1.svg.png" group-title="LATINO",LAT: COCINA
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4797.ts
+#EXTINF:-1 tvg-id="comedycentral.co" tvg-name="LAT: COMEDY CENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/200px-Comedy_Central_2018.svg.png" group-title="LATINO",LAT: COMEDY CENTRAL
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4696.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT: DE PELICULA HD (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/De_pelicula_logo.png/220px-De_pelicula_logo.png" group-title="LATINO",LAT: DE PELICULA HD (MX)
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4697.ts
+#EXTINF:-1 tvg-id="discovery.cl" tvg-name="LAT: DISCOVERY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/220px-2019_Discovery_logo.svg.png" group-title="LATINO",LAT: DISCOVERY CHANNEL
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4795.ts
+#EXTINF:-1 tvg-id="discovery.hn" tvg-name="LAT: DISCOVERY CHANNEL HD (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/220px-2019_Discovery_logo.svg.png" group-title="LATINO",LAT: DISCOVERY CHANNEL HD (MX)
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4698.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT: DISCOVERY CIVILIZATION HD (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Discovery_civilization_logo.jpg" group-title="LATINO",LAT: DISCOVERY CIVILIZATION HD (MX)
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4699.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT: DISCOVERY H&H HD (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" group-title="LATINO",LAT: DISCOVERY H&H HD (MX)
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4700.ts
+#EXTINF:-1 tvg-id="investigationdisc.cl" tvg-name="LAT: DISCOVERY ID HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/InvestigationDiscovery.png/200px-InvestigationDiscovery.png" group-title="LATINO",LAT: DISCOVERY ID HD
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4701.ts
+#EXTINF:-1 tvg-id="discoverykids.hn" tvg-name="LAT: DISCOVERY KIDS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Discovery_Kids_Canada.png/150px-Discovery_Kids_Canada.png" group-title="LATINO",LAT: DISCOVERY KIDS HD
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4702.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT: DISCOVERY THEATER HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d8/Discovery_HD_Theather_2013.png" group-title="LATINO",LAT: DISCOVERY THEATER HD
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4703.ts
+#EXTINF:-1 tvg-id="disney.pe" tvg-name="LAT: DISCOVERY TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/200px-TLC_Logo.svg.png" group-title="LATINO",LAT: DISCOVERY TLC
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4704.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT: DISCOVERY TURBO HD (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Discovery_Turbo.png/200px-Discovery_Turbo.png" group-title="LATINO",LAT: DISCOVERY TURBO HD (MX)
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4705.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT: DISCOVERY WORLD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Discovery_world_channel.png/250px-Discovery_world_channel.png" group-title="LATINO",LAT: DISCOVERY WORLD HD
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4706.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT: DISTRITO COMEDIA HD (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/200px-DistritoComediaLOGO2018.png" group-title="LATINO",LAT: DISTRITO COMEDIA HD (MX)
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4709.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT: EL GOURMET HD (MX)" tvg-logo="" group-title="LATINO",LAT: EL GOURMET HD (MX)
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4710.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT: ESPN 2 HD (CO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/225px-ESPN2_logo.svg.png" group-title="LATINO",LAT: ESPN 2 HD (CO)
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4712.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT: ESPN 3 HD (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/200px-ESPN3_Logo.png" group-title="LATINO",LAT: ESPN 3 HD (MX)
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4713.ts
+#EXTINF:-1 tvg-id="espn.cl" tvg-name="LAT: ESPN HD (CO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/225px-ESPN_wordmark.svg.png" group-title="LATINO",LAT: ESPN HD (CO)
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4714.ts
+#EXTINF:-1 tvg-id="espn3.cl" tvg-name="LAT: ESPN U HD (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/100px-ESPN_U_logo.svg.png" group-title="LATINO",LAT: ESPN U HD (MX)
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4715.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT: FILM & ART HD (MX)" tvg-logo="" group-title="LATINO",LAT: FILM & ART HD (MX)
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4716.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT: FORO TV (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Foro_TV_2016_NewLogo.jpg/220px-Foro_TV_2016_NewLogo.jpg" group-title="LATINO",LAT: FORO TV (MX)
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4717.ts
+#EXTINF:-1 tvg-id="fox.cl" tvg-name="LAT: FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/200px-FOX_wordmark-orange.svg.png" group-title="LATINO",LAT: FOX
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4792.ts
+#EXTINF:-1 tvg-id="fox.cl" tvg-name="LAT: FOX  HD (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/200px-FOX_wordmark-orange.svg.png" group-title="LATINO",LAT: FOX  HD (MX)
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4718.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT: FOX ACTION HD (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/FOXActionMovies_logo_2.png/200px-FOXActionMovies_logo_2.png" group-title="LATINO",LAT: FOX ACTION HD (MX)
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4719.ts
+#EXTINF:-1 tvg-id="foxmovies.hn" tvg-name="LAT: FOX CINEMA" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/FOXPremiumCinemaLA.png" group-title="LATINO",LAT: FOX CINEMA
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4720.ts
+#EXTINF:-1 tvg-id="foxseries.co" tvg-name="LAT: FOX SERIES HD (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/150px-FOX_wordmark-orange.svg.png" group-title="LATINO",LAT: FOX SERIES HD (MX)
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4721.ts
+#EXTINF:-1 tvg-id="foxsports2.co" tvg-name="LAT: FOX SPORTS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/200px-FS2_logo_2015.svg.png" group-title="LATINO",LAT: FOX SPORTS 2 HD
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4722.ts
+#EXTINF:-1 tvg-id="foxsports3.cl" tvg-name="LAT: FOX SPORTS 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/200px-FOX_Sports_logo.svg.png" group-title="LATINO",LAT: FOX SPORTS 3 HD
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4723.ts
+#EXTINF:-1 tvg-id="foxsports.cl" tvg-name="LAT: FOX SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/200px-2015_Fox_Sports_1_logo.svg.png" group-title="LATINO",LAT: FOX SPORTS HD
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4724.ts
+#EXTINF:-1 tvg-id="fx.cl" tvg-name="LAT: FX HD (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/175px-FX_International_logo.svg.png" group-title="LATINO",LAT: FX HD (MX)
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4725.ts
+#EXTINF:-1 tvg-id="fxmovies.co" tvg-name="LAT: FXM HD (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/200px-FXM_Logo.svg.png" group-title="LATINO",LAT: FXM HD (MX)
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4726.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT: GALAVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/150px-Galavision_Logo_2013.svg.png" group-title="LATINO",LAT: GALAVISION
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/6433.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT: GLITZ HD (CO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Glitzlogo.png/220px-Glitzlogo.png" group-title="LATINO",LAT: GLITZ HD (CO)
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4727.ts
+#EXTINF:-1 tvg-id="goldenedge.pe" tvg-name="LAT: GOLDEN EDGE HD (MX)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9f/Logo-goldedge.jpg" group-title="LATINO",LAT: GOLDEN EDGE HD (MX)
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4728.ts
+#EXTINF:-1 tvg-id="golden.pe" tvg-name="LAT: GOLDEN HD (MX)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/55/Golden.png" group-title="LATINO",LAT: GOLDEN HD (MX)
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4729.ts
+#EXTINF:-1 tvg-id="golden.cl" tvg-name="LAT: GOLDEN PLUS HD (MX)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/06/GoldenPlus.png" group-title="LATINO",LAT: GOLDEN PLUS HD (MX)
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4730.ts
+#EXTINF:-1 tvg-id="history.sv" tvg-name="LAT: H2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/H2_TV_logo.svg/200px-H2_TV_logo.svg.png" group-title="LATINO",LAT: H2
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4731.ts
+#EXTINF:-1 tvg-id="hbo.co" tvg-name="LAT: HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/220px-HBO_logo.svg.png" group-title="LATINO",LAT: HBO
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4732.ts
+#EXTINF:-1 tvg-id="hbooeste.gt" tvg-name="LAT: HBO 2 HD (CO)" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/7/7f/HBO_2_HD_%282016-.n.v.%29.png" group-title="LATINO",LAT: HBO 2 HD (CO)
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4733.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT: HBO FAMILY HD (CO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/200px-HBO_Family_logo.png" group-title="LATINO",LAT: HBO FAMILY HD (CO)
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4734.ts
+#EXTINF:-1 tvg-id="hbo.cl" tvg-name="LAT: HBO PLUS HD (CO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/200px-Logohboplus2019.svg.png" group-title="LATINO",LAT: HBO PLUS HD (CO)
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4735.ts
+#EXTINF:-1 tvg-id="history.gt" tvg-name="LAT: HISTORY HD (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/220px-History_Logo.svg.png" group-title="LATINO",LAT: HISTORY HD (MX)
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4736.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT: HOLA TV HD (MX)" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/b/b3/Hola%21_TV_%282013-.n.v.%29.png" group-title="LATINO",LAT: HOLA TV HD (MX)
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4737.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT: HOLLYWOOD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Chollywood.png/220px-Chollywood.png" group-title="LATINO",LAT: HOLLYWOOD
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4790.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT: I CLASSIC HD  (MX)" tvg-logo="" group-title="LATINO",LAT: I CLASSIC HD  (MX)
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4738.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT: ISAT HD (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/150px-I.Sat_logo.svg.png" group-title="LATINO",LAT: ISAT HD (MX)
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4739.ts
+#EXTINF:-1 tvg-id="lasestrellas.gt" tvg-name="LAT: LAS ESTRELLAS HD (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/150px-Las_Estrellas.svg.png" group-title="LATINO",LAT: LAS ESTRELLAS HD (MX)
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4740.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT: MEXIQUICE (MX)" tvg-logo="" group-title="LATINO",LAT: MEXIQUICE (MX)
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4741.ts
+#EXTINF:-1 tvg-id="mtv.co" tvg-name="LAT: MTV HD (CO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/150px-MTV_Logo_2010.svg.png" group-title="LATINO",LAT: MTV HD (CO)
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4742.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT: MULTIMEDIOS HD (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/200px-Multimedios_Television.png" group-title="LATINO",LAT: MULTIMEDIOS HD (MX)
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4743.ts
+#EXTINF:-1 tvg-id="natgeo.co" tvg-name="LAT: NATIONAL GEOGRAPHIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/240px-Natgeologo.svg.png" group-title="LATINO",LAT: NATIONAL GEOGRAPHIC
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12818.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT: NAT GEO LA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/240px-Natgeologo.svg.png" group-title="LATINO",LAT: NAT GEO LA
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/12817.ts
+#EXTINF:-1 tvg-id="natgeo.co" tvg-name="LAT: NAT GEO WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/220px-National_Geographic_Wild_logo.svg.png" group-title="LATINO",LAT: NAT GEO WILD
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4744.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT: NICK 2 HD (MX)" tvg-logo="https://vignette.wikia.nocookie.net/nickelodeon/images/f/fe/Nick2-Logo-nickelodeon-28666182-367-137.jpg" group-title="LATINO",LAT: NICK 2 HD (MX)
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4745.ts
+#EXTINF:-1 tvg-id="nickelodeon.cl" tvg-name="LAT: NICK HD (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/220px-Nickelodeon_2009_logo.svg.png" group-title="LATINO",LAT: NICK HD (MX)
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4746.ts
+#EXTINF:-1 tvg-id="nickelodeon.cl" tvg-name="LAT: NICKELODEON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/220px-Nickelodeon_2009_logo.svg.png" group-title="LATINO",LAT: NICKELODEON
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4776.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT: NICKTOONS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Nicktoons_UK_Logo_2010.svg/250px-Nicktoons_UK_Logo_2010.svg.png" group-title="LATINO",LAT: NICKTOONS
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4748.ts
+#EXTINF:-1 tvg-id="paramount.cl" tvg-name="LAT: PARAMOUNT HD (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Paramount_Channel.svg/200px-Paramount_Channel.svg.png" group-title="LATINO",LAT: PARAMOUNT HD (MX)
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4749.ts
+#EXTINF:-1 tvg-id="sony.cl" tvg-name="LAT: SONY HD (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/SET_India.jpg/170px-SET_India.jpg" group-title="LATINO",LAT: SONY HD (MX)
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4750.ts
+#EXTINF:-1 tvg-id="space.cl" tvg-name="LAT: SPACE HD" tvg-logo="https://vignette.wikia.nocookie.net/tardis/images/5/57/Space_TV_logo_2018_DW-themed.jpg" group-title="LATINO",LAT: SPACE HD
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4751.ts
+#EXTINF:-1 tvg-id="universal.cl" tvg-name="LAT: STUDIO UNIVERSAL HD (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/200px-StudioUniversal2016.png" group-title="LATINO",LAT: STUDIO UNIVERSAL HD (MX)
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4752.ts
+#EXTINF:-1 tvg-id="syfy.gt" tvg-name="LAT: SYFY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/220px-SYFY.svg.png" group-title="LATINO",LAT: SYFY HD
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4753.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT: TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/175px-TCM_logo.svg.png" group-title="LATINO",LAT: TCM
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4754.ts
+#EXTINF:-1 tvg-id="tnt.co" tvg-name="LAT: TLC HD (CO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/200px-TLC_Logo.svg.png" group-title="LATINO",LAT: TLC HD (CO)
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4755.ts
+#EXTINF:-1 tvg-id="tnt.cl" tvg-name="LAT: TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/150px-TNT_Logo_2016.svg.png" group-title="LATINO",LAT: TNT
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4756.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT: TNT SERIE HD (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/TNT_Serie_Logo_2016.png/150px-TNT_Serie_Logo_2016.png" group-title="LATINO",LAT: TNT SERIE HD (MX)
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4757.ts
+#EXTINF:-1 tvg-id="tooncast.py" tvg-name="LAT: TOONCAST HD (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/220px-Tooncast_logo.svg.png" group-title="LATINO",LAT: TOONCAST HD (MX)
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4758.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT: TV MAS HD (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/TV%2B_%282018%29.png/200px-TV%2B_%282018%29.png" group-title="LATINO",LAT: TV MAS HD (MX)
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4759.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT: UNICABLE (SD)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/69/Unicableactual.jpg" group-title="LATINO",LAT: UNICABLE (SD)
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4760.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT: UNIVISION " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/200px-Logo_Univision_2019.svg.png" group-title="LATINO",LAT: UNIVISION 
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/5552.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT: UNIVISION DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TUDN.jpg/300px-TUDN.jpg" group-title="LATINO",LAT: UNIVISION DEPORTES
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/5556.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT: VH1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/VH1_India2016.png/150px-VH1_India2016.png" group-title="LATINO",LAT: VH1 HD
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4763.ts
+#EXTINF:-1 tvg-id="warnerchannel.co" tvg-name="LAT: WARNER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/150px-Warner2018LA.png" group-title="LATINO",LAT: WARNER HD
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4764.ts
+#EXTINF:-1 tvg-id="winsports.co" tvg-name="LAT: WINSPORTS (CO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/220px-WinSports2017.png" group-title="LATINO",LAT: WINSPORTS (CO)
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4765.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT: WOBI HD (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/WOBI_logo.png/250px-WOBI_logo.png" group-title="LATINO",LAT: WOBI HD (MX)
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4766.ts
+#EXTINF:-1 tvg-id="cinemax.cl" tvg-name="MOVIES-LAT: CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/250px-Cinemax_%28Yellow%29.svg.png" group-title="LATINO",MOVIES-LAT: CINEMAX
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4677.ts
+#EXTINF:-1 tvg-id="cinemax.cl" tvg-name="MOVIES-LAT: CINEMAX WEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/250px-Cinemax_%28Yellow%29.svg.png" group-title="LATINO",MOVIES-LAT: CINEMAX WEST
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4676.ts
+#EXTINF:-1 tvg-id="hbo.cl" tvg-name="MOVIES-LAT: HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/220px-HBO_logo.svg.png" group-title="LATINO",MOVIES-LAT: HBO
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/4675.ts
+#EXTINF:-1 tvg-id="4music.uk" tvg-name="UK: 4MUSIC | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/4Music_logo_2018.svg/175px-4Music_logo_2018.svg.png" group-title="UK UHD/HD",UK: 4MUSIC | HD
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/6796.ts
+#EXTINF:-1 tvg-id="4Seven.uk" tvg-name="UK: 4SEVEN | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/4seven_logo_2018.svg/100px-4seven_logo_2018.svg.png" group-title="UK UHD/HD",UK: 4SEVEN | HD
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/6797.ts
+#EXTINF:-1 tvg-id="FiveUSA.uk" tvg-name="UK: 5 USA | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/5USA_logo.svg/200px-5USA_logo.svg.png" group-title="UK UHD/HD",UK: 5 USA | HD
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/6799.ts
+#EXTINF:-1 tvg-id="5select.uk" tvg-name="UK: 5SELECT | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/5Select_logo.png/250px-5Select_logo.png" group-title="UK UHD/HD",UK: 5SELECT | HD
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/6800.ts
+#EXTINF:-1 tvg-id="5star.uk" tvg-name="UK: 5STAR | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/5Star_logo_2019.svg/200px-5Star_logo_2019.svg.png" group-title="UK UHD/HD",UK: 5STAR | HD
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/6801.ts
+#EXTINF:-1 tvg-id="Spike.uk" tvg-name="UK: 5SPIKE | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/28/5Spike_Logo.svg/250px-5Spike_Logo.svg.png" group-title="UK UHD/HD",UK: 5SPIKE | HD
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/6802.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: AAJ TAK | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Aaj_tak_logo.png/200px-Aaj_tak_logo.png" group-title="UK UHD/HD",UK: AAJ TAK | HD
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/6803.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: AL ARABIYA | UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Al-Arabiyalogo.svg/220px-Al-Arabiyalogo.svg.png" group-title="UK UHD/HD",UK: AL ARABIYA | UHD
+http://beastiptv.tv:25461/live/techy121@gmail.com/Madcook11/6804.ts
+#
